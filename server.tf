@@ -5,7 +5,7 @@ variable "vpc_security_group_ids" {
 }
 variable "identity" {}
 variable "num_webs" {
-  default = "3"
+  default = "4"
 }
 
 
